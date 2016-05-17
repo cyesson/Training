@@ -86,4 +86,4 @@
 217388179	Diospyros loureiriana	38.4667	-5.15
 217387255	Diospyros loureiriana	38.8172	-4.84333
 217388154	Diospyros loureiriana	37.2	-7.3
-217388181	Diospyros loureiriana	38.1333	-8.61667
+217388181	Diospyros loureiriana	38.1333	-8.61667 
