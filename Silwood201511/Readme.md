@@ -10,6 +10,8 @@ The following resources could be useful when starting out with QGIS:
 * [The QGIS manual](http://qgis.org/en/documentation/manuals.html)
 * [How do I do that in QGIS?](http://hub.qgis.org/projects/quantum-gis/wiki/How_do_I_do_that_in_QGIS)
 * [The open source GIS mailing lists](http://osgeo-org.1560.x6.nabble.com/)
+* [QGIS tutorials](http://www.qgistutorials.com/en/)
+* [More QGIS tutorials](http://mltconsecol.github.io/QGIS-Tutorial/)
 
 ## Data resources
 When using a GIS, you need some GIS data.  There are many data available on the web.  Here are some useful sites with freely accessible GIS layers
