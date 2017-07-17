@@ -1,0 +1,1 @@
+A selection of GIS practicals using QGIS.
