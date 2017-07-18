@@ -7,6 +7,8 @@ Based in the Nuffield Seminar Room.
 
 ### Wed 19th July
 
+| Time | Session |
+| ---- | ------- |
 | 09:30 |  [Introduction to QGIS](https://github.com/cyesson/Training/tree/master/GIS/Introduction2QGIS) |
 | 10:30 | Tea break |
 | 11:00 | [Coordinate reference systems](https://github.com/cyesson/Training/tree/master/GIS/CoordinateReferenceSystems) |
@@ -18,6 +20,8 @@ Based in the Nuffield Seminar Room.
 
 ### Thur 20th July
 
+| Time | Session |
+| ---- | ------- |
 | 09:30 | [Print composer](https://github.com/cyesson/Training/tree/master/GIS/PrintComposer) |
 | 10:30 | Tea break |
 | 11:00 | [Georeferencing Images](https://github.com/cyesson/Training/tree/master/GIS/Georeferencing) |
