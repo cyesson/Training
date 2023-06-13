@@ -15,7 +15,7 @@ You should keep in mind that there are 3 fundamental properties that a coordinat
 
 ## Layers
 
-* Countries.shp - Very old countries of the world shape file (vector)
+* Countries.shp - Very old countries of the world shape file (vector) - you can get a recent version from [arcgis hub](https://hub.arcgis.com/datasets/esri::world-countries-generalized/explore)
 * UK.gml - (GML file - vector data) Extract of countries layer for UK
 * UKGrid10k.gml (GML file - vector) 10km grid squares around UK
 * UKGrid1Deg.gml (GML file - vector) 1 degree grid squares around UK
@@ -30,3 +30,4 @@ You should keep in mind that there are 3 fundamental properties that a coordinat
 * [spatialreference.org](http://spatialreference.org/) - A comprehensive list of difference spatial reference systems.
 * [Geeky Examples of CRS](https://xkcd.com/977/)
 * [Clip from West Wing where the Gall-Peters projection is explained](https://www.youtube.com/watch?v=OH1bZ0F3zVU)
+* [ArcGIS data hub - lots of downloadable layers](https://hub.arcgis.com/datasets/)
