@@ -10,12 +10,12 @@ This tutorial will introduce the QGIS interface and show you how to create a pro
 
 ## Layers
 
-* Tanzania.shp - Shapefile (vector layer) outlining the country of Tanzania (really old, low resolution file, can't remember where its from)
+* Tanzania.gpkg - Geopackage (vector layer) outlining the country of Tanzania (really old, low resolution file, can't remember where its from)
 * AdministrativeAreas.shp - Shapefile (vector) showing administrative areas within Tanzania (source [DIVA GIS](http://www.diva-gis.org/Data))
-* ProtectedAreas.shp - Shapefile (vector layer) showing various kinds of protected areas within the country (very old, out of date data)
+* ProtectedAreas.shp - Shapefile (vector layer) showing various kinds of protected areas within the country (old, out of date data - get the latest data from [Protected Planet](https://www.protectedplanet.net/))
 * Lakes.kml - KML (vector layer) of lakes in Tanzania (source [DIVA GIS](http://www.diva-gis.org/Data))
 * Satellite.tif - GeoTiff (raster layer) colour 'image' of Tanzania extracted from a very old WSIEarth picture of the world
-* Diospyros.txt - Text file (vector layer) point locations of [Diospyros loureiriana](http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=143990), a small tree/shrub. This is a very old extract from [GBIF](http://www.gbif.org/)
+* Diospyros.txt - Text file (vector layer) point locations of [Diospyros loureiriana](http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=143990), a small tree/shrub. This is an old extract from [GBIF](http://www.gbif.org/)
 
 ## Acknowledgements
 
