@@ -16,4 +16,5 @@ Long et al (2020) Identification of a Soft Coral Garden Candidate Vulnerable Mar
 
 Howell et al (2023). An ecologist's guide to BIIGLE. https://doi.org/10.5281/ZENODO.7728927 - *A guide to using the Biigle annotation platform* 
 
+*Example image being annotated in Biigle*
 ![Example image being annotation in Biigle](Example-ImageAnnotation.png)
