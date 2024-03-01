@@ -3,7 +3,7 @@ Training on benthic image processing
 1. show and tell with benthic camera system
 2. short presentation and case study
 3. practical experience annotating benthic imagery with Biigle
-4. analysis example in R
+4. [analysis example in R](https://raw.githubusercontent.com/cyesson/Training/master/BenthicImageProcessing/Example-LongEtAl-2020.R)
 
 The practical annotation is conducting using the web-based annotation platform https://biigle.de
 
