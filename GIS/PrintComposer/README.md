@@ -2,9 +2,13 @@
 
 The print composer is the tool that turns your map into a figure suitable for a presentation or paper. There are a number of features you can add to the map image to provide useful information, such as a legend, scale bar, grid lines and overview window.
 
-This practical will show how to reproduce the following map figure
+This practical will start by reproducing the following map figure:
 
-![screen shot from practical](https://github.com/cyesson/Training/blob/master/GIS/PrintComposer/PrintComposer-screenshot.png)
+![simple map figure](https://github.com/cyesson/Training/blob/master/GIS/PrintComposer/PrintComposer-simplescreenshot.png)
+
+... and then go on to show lots of additional components you could add to your figure:
+
+![map figure with all the bells and whistles](https://github.com/cyesson/Training/blob/master/GIS/PrintComposer/PrintComposer-screenshot.png)
 
 ## Layers
 
