@@ -17,8 +17,13 @@ This tutorial will introduce the QGIS interface and show you how to create a pro
 * Satellite.tif - GeoTiff (raster layer) colour 'image' of Tanzania extracted from a very old WSIEarth picture of the world
 * Diospyros.txt - Text file (vector layer) point locations of [Diospyros loureiriana](http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=143990), a small tree/shrub. This is an old extract from [GBIF](http://www.gbif.org/)
 
+## Video walkthrough
+
+[![A video walkthrough of this practical is available here](https://youtu.be/SwL5NhxOShM)](https://youtu.be/SwL5NhxOShM)
+
 ## Acknowledgements
 
 This practical was first designed & conducted by QGIS developer and all round GIS expert [Tim Sutton](https://github.com/timlinux).
+
 
 
