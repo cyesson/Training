@@ -25,11 +25,12 @@ This practical will start by reproducing the following map figure:
 ## Video walkthrough
 
 A video walkthrough of this practical:
-[![A video walkthrough of this practical is available here](https://img.youtube.com/vi/SwL5NhxOShM/hqdefault.jpg)](https://youtu.be/SwL5NhxOShM)
+[![A video walkthrough of this practical is available here](https://img.youtube.com/vi/AlZaVZomdww/hqdefault.jpg)](https://youtu.be/AlZaVZomdww)
 
 ## Acknowledgements
 
 This practical was designed and first presented by [Aisyah Faruk](https://uk.linkedin.com/in/aisyah-faruk-22691350).
+
 
 
 
