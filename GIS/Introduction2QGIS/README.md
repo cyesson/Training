@@ -20,11 +20,12 @@ This tutorial will introduce the QGIS interface and show you how to create a pro
 ## Video walkthrough
 
 A video walkthrough of this practical:
-[![A video walkthrough of this practical is available here](https://img.youtube.com/vi/AlZaVZomdww/hqdefault.jpg)](https://youtu.be/AlZaVZomdww)
+[![A video walkthrough of this practical is available here](https://img.youtube.com/vi/SwL5NhxOShM/hqdefault.jpg)](https://youtu.be/SwL5NhxOShM)
 
 ## Acknowledgements
 
 This practical was first designed & conducted by QGIS developer and all round GIS expert [Tim Sutton](https://github.com/timlinux).
+
 
 
 
