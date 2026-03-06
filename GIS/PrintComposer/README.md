@@ -22,8 +22,16 @@ This practical will start by reproducing the following map figure:
 *  Acanthosaura sp..shp - (Shapefile vector) Point distribution of Acanthosaura species (source Aisyah Faruk)
 * ZSL Logo.png (image file) ZSL logo (source [ZSL](https://www.zsl.org/))
 
+## Video walkthrough
+
+A video walkthrough of this practical:
+[![A video walkthrough of this practical is available here](https://img.youtube.com/vi/AlZaVZomdww/hqdefault.jpg)](https://youtu.be/AlZaVZomdww)
 
 ## Acknowledgements
 
 This practical was designed and first presented by [Aisyah Faruk](https://uk.linkedin.com/in/aisyah-faruk-22691350).
+
+
+
+
 
